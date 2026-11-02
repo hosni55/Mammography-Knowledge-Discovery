@@ -24,3 +24,5 @@ desktop.ini
 
 # Temporary files
 *.log
+# Original CBIS-DDSM dataset
+/data/*.csv
