@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="relationship" attr.type="string" />
+  <key id="d5" for="node" attr.name="label" attr.type="string" />
+  <key id="d4" for="node" attr.name="level" attr.type="string" />
+  <key id="d3" for="node" attr.name="lift" attr.type="double" />
+  <key id="d2" for="node" attr.name="confidence" attr.type="double" />
+  <key id="d1" for="node" attr.name="support" attr.type="double" />
+  <key id="d0" for="node" attr.name="node_type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="mass_rule_0">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.0622154779969651</data>
+      <data key="d2">0.8723404255319148</data>
+      <data key="d3">3.845299935956735</data>
+      <data key="d4">Strong</data>
+    </node>
+    <node id="mass_feature_mass shape_mass shape=IRREGULAR">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">mass shape_mass shape=IRREGULAR</data>
+    </node>
+    <node id="mass_feature_mass margins_mass margins=SPICULATED">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">mass margins_mass margins=SPICULATED</data>
+    </node>
+    <node id="mass_feature_subtlety_subtlety=5">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">subtlety_subtlety=5</data>
+    </node>
+    <node id="mass_feature_assessment_assessment=5">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">assessment_assessment=5</data>
+    </node>
+    <node id="mass_rule_1">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.05993930197268589</data>
+      <data key="d2">0.858695652173913</data>
+      <data key="d3">3.7851534099171147</data>
+      <data key="d4">Strong</data>
+    </node>
+    <node id="mass_feature_left or right breast_left or right breast=LEFT">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">left or right breast_left or right breast=LEFT</data>
+    </node>
+    <node id="mass_rule_2">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.05235204855842185</data>
+      <data key="d2">0.7931034482758621</data>
+      <data key="d3">3.7199656399558227</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="mass_rule_3">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.05311077389984825</data>
+      <data key="d2">0.7865168539325843</data>
+      <data key="d3">3.6890719341037226</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="mass_feature_image view_image view=MLO">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">image view_image view=MLO</data>
+    </node>
+    <node id="mass_rule_4">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.05235204855842185</data>
+      <data key="d2">0.8313253012048193</data>
+      <data key="d3">3.664504170528267</data>
+      <data key="d4">Strong</data>
+    </node>
+    <node id="mass_rule_5">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.09256449165402124</data>
+      <data key="d2">0.7770700636942675</data>
+      <data key="d3">3.6447627898542505</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="mass_rule_6">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.05083459787556904</data>
+      <data key="d2">0.8481012658227848</data>
+      <data key="d3">2.0585588735809033</data>
+      <data key="d4">Strong</data>
+    </node>
+    <node id="mass_feature_breast_density_breast_density=1">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">breast_density_breast_density=1</data>
+    </node>
+    <node id="mass_rule_7">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.05007587253414264</data>
+      <data key="d2">0.8354430379746836</data>
+      <data key="d3">2.0278341142737255</data>
+      <data key="d4">Strong</data>
+    </node>
+    <node id="mass_feature_breast_density_breast_density=2">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">breast_density_breast_density=2</data>
+    </node>
+    <node id="mass_rule_8">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.08952959028831563</data>
+      <data key="d2">0.7972972972972973</data>
+      <data key="d3">1.9352446369020955</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="mass_rule_9">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.07207890743550835</data>
+      <data key="d2">0.7089552238805971</data>
+      <data key="d3">1.7531012853182495</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="mass_feature_left or right breast_left or right breast=RIGHT">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">left or right breast_left or right breast=RIGHT</data>
+    </node>
+    <node id="mass_feature_mass margins_mass margins=ILL_DEFINED">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">mass margins_mass margins=ILL_DEFINED</data>
+    </node>
+    <node id="mass_feature_assessment_assessment=4">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">assessment_assessment=4</data>
+    </node>
+    <edge source="mass_rule_0" target="mass_feature_assessment_assessment=5">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="mass_feature_mass shape_mass shape=IRREGULAR" target="mass_rule_0">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_mass shape_mass shape=IRREGULAR" target="mass_rule_2">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_mass shape_mass shape=IRREGULAR" target="mass_rule_3">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_mass shape_mass shape=IRREGULAR" target="mass_rule_5">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_mass margins_mass margins=SPICULATED" target="mass_rule_0">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_mass margins_mass margins=SPICULATED" target="mass_rule_1">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_mass margins_mass margins=SPICULATED" target="mass_rule_4">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_subtlety_subtlety=5" target="mass_rule_0">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_subtlety_subtlety=5" target="mass_rule_1">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_subtlety_subtlety=5" target="mass_rule_4">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_assessment_assessment=5" target="mass_rule_2">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_assessment_assessment=5" target="mass_rule_3">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_assessment_assessment=5" target="mass_rule_5">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_assessment_assessment=5" target="mass_rule_6">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_assessment_assessment=5" target="mass_rule_7">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_assessment_assessment=5" target="mass_rule_8">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_rule_1" target="mass_feature_assessment_assessment=5">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="mass_feature_left or right breast_left or right breast=LEFT" target="mass_rule_1">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_left or right breast_left or right breast=LEFT" target="mass_rule_2">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_left or right breast_left or right breast=LEFT" target="mass_rule_7">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_rule_2" target="mass_feature_mass margins_mass margins=SPICULATED">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="mass_rule_3" target="mass_feature_mass margins_mass margins=SPICULATED">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="mass_feature_image view_image view=MLO" target="mass_rule_3">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_image view_image view=MLO" target="mass_rule_4">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_rule_4" target="mass_feature_assessment_assessment=5">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="mass_rule_5" target="mass_feature_mass margins_mass margins=SPICULATED">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="mass_rule_6" target="mass_feature_subtlety_subtlety=5">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="mass_feature_breast_density_breast_density=1" target="mass_rule_6">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_rule_7" target="mass_feature_subtlety_subtlety=5">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="mass_feature_breast_density_breast_density=2" target="mass_rule_7">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_breast_density_breast_density=2" target="mass_rule_8">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_rule_8" target="mass_feature_subtlety_subtlety=5">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="mass_rule_9" target="mass_feature_assessment_assessment=4">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="mass_feature_left or right breast_left or right breast=RIGHT" target="mass_rule_9">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="mass_feature_mass margins_mass margins=ILL_DEFINED" target="mass_rule_9">
+      <data key="d6">antecedent</data>
+    </edge>
+  </graph>
+</graphml>

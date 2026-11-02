@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="relationship" attr.type="string" />
+  <key id="d5" for="node" attr.name="label" attr.type="string" />
+  <key id="d4" for="node" attr.name="level" attr.type="string" />
+  <key id="d3" for="node" attr.name="lift" attr.type="double" />
+  <key id="d2" for="node" attr.name="confidence" attr.type="double" />
+  <key id="d1" for="node" attr.name="support" attr.type="double" />
+  <key id="d0" for="node" attr.name="node_type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="calc_rule_0">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.06015523932729625</data>
+      <data key="d2">1.0</data>
+      <data key="d3">3.20746887966805</data>
+      <data key="d4">Strong</data>
+    </node>
+    <node id="calc_feature_calc type_calc type=LUCENT_CENTER">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">calc type_calc type=LUCENT_CENTER</data>
+    </node>
+    <node id="calc_feature_assessment_assessment=2">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">assessment_assessment=2</data>
+    </node>
+    <node id="calc_rule_1">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.05304010349288486</data>
+      <data key="d2">1.0</data>
+      <data key="d3">3.20746887966805</data>
+      <data key="d4">Strong</data>
+    </node>
+    <node id="calc_feature_calc type_calc type=VASCULAR">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">calc type_calc type=VASCULAR</data>
+    </node>
+    <node id="calc_rule_2">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.050452781371280724</data>
+      <data key="d2">0.9512195121951219</data>
+      <data key="d3">1.952968613351472</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="calc_feature_left or right breast_left or right breast=LEFT">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">left or right breast_left or right breast=LEFT</data>
+    </node>
+    <node id="calc_feature_calc type_calc type=PLEOMORPHIC">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">calc type_calc type=PLEOMORPHIC</data>
+    </node>
+    <node id="calc_feature_subtlety_subtlety=2">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">subtlety_subtlety=2</data>
+    </node>
+    <node id="calc_feature_assessment_assessment=4">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">assessment_assessment=4</data>
+    </node>
+    <node id="calc_rule_3">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.08796895213454076</data>
+      <data key="d2">0.918918918918919</data>
+      <data key="d3">1.8866515918308748</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="calc_rule_4">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.07891332470892626</data>
+      <data key="d2">0.8970588235294117</data>
+      <data key="d3">1.84177017420514</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="calc_feature_calc distribution_calc distribution=CLUSTERED">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">calc distribution_calc distribution=CLUSTERED</data>
+    </node>
+    <node id="calc_feature_subtlety_subtlety=3">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">subtlety_subtlety=3</data>
+    </node>
+    <node id="calc_rule_5">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.05304010349288486</data>
+      <data key="d2">0.780952380952381</data>
+      <data key="d3">1.8183017785427424</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="calc_feature_subtlety_subtlety=4">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">subtlety_subtlety=4</data>
+    </node>
+    <node id="calc_rule_6">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.07309184993531695</data>
+      <data key="d2">0.7687074829931972</data>
+      <data key="d3">1.7897918203425949</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="calc_rule_7">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.054333764553686936</data>
+      <data key="d2">0.7636363636363637</data>
+      <data key="d3">1.7779846659364733</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="calc_feature_breast_density_breast_density=4">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">breast_density_breast_density=4</data>
+    </node>
+    <node id="calc_rule_8">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.059508408796895215</data>
+      <data key="d2">0.8214285714285715</data>
+      <data key="d3">1.7161196911196912</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="calc_feature_left or right breast_left or right breast=RIGHT">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">left or right breast_left or right breast=RIGHT</data>
+    </node>
+    <node id="calc_feature_breast_density_breast_density=3">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">breast_density_breast_density=3</data>
+    </node>
+    <node id="calc_rule_9">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.054980595084087966</data>
+      <data key="d2">0.7943925233644858</data>
+      <data key="d3">1.6596362717858042</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="calc_rule_10">
+      <data key="d0">association_rule</data>
+      <data key="d1">0.06274256144890039</data>
+      <data key="d2">0.7822580645161291</data>
+      <data key="d3">1.6342850915431562</data>
+      <data key="d4">Interesting</data>
+    </node>
+    <node id="calc_feature_image view_image view=MLO">
+      <data key="d0">clinical_feature</data>
+      <data key="d5">image view_image view=MLO</data>
+    </node>
+    <edge source="calc_rule_0" target="calc_feature_assessment_assessment=2">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="calc_feature_calc type_calc type=LUCENT_CENTER" target="calc_rule_0">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_rule_1" target="calc_feature_assessment_assessment=2">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="calc_feature_calc type_calc type=VASCULAR" target="calc_rule_1">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_rule_2" target="calc_feature_assessment_assessment=4">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="calc_feature_left or right breast_left or right breast=LEFT" target="calc_rule_2">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_left or right breast_left or right breast=LEFT" target="calc_rule_7">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_calc type_calc type=PLEOMORPHIC" target="calc_rule_2">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_calc type_calc type=PLEOMORPHIC" target="calc_rule_3">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_calc type_calc type=PLEOMORPHIC" target="calc_rule_4">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_subtlety_subtlety=2" target="calc_rule_2">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_subtlety_subtlety=2" target="calc_rule_3">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_subtlety_subtlety=2" target="calc_rule_9">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_subtlety_subtlety=2" target="calc_rule_10">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_assessment_assessment=4" target="calc_rule_5">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_assessment_assessment=4" target="calc_rule_6">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_assessment_assessment=4" target="calc_rule_8">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_rule_3" target="calc_feature_assessment_assessment=4">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="calc_rule_4" target="calc_feature_assessment_assessment=4">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="calc_feature_calc distribution_calc distribution=CLUSTERED" target="calc_rule_4">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_calc distribution_calc distribution=CLUSTERED" target="calc_rule_5">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_calc distribution_calc distribution=CLUSTERED" target="calc_rule_7">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_subtlety_subtlety=3" target="calc_rule_4">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_rule_5" target="calc_feature_calc type_calc type=PLEOMORPHIC">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="calc_feature_subtlety_subtlety=4" target="calc_rule_5">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_subtlety_subtlety=4" target="calc_rule_6">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_rule_6" target="calc_feature_calc type_calc type=PLEOMORPHIC">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="calc_rule_7" target="calc_feature_calc type_calc type=PLEOMORPHIC">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="calc_feature_breast_density_breast_density=4" target="calc_rule_7">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_rule_8" target="calc_feature_calc distribution_calc distribution=CLUSTERED">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="calc_feature_left or right breast_left or right breast=RIGHT" target="calc_rule_8">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_left or right breast_left or right breast=RIGHT" target="calc_rule_9">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_feature_breast_density_breast_density=3" target="calc_rule_8">
+      <data key="d6">antecedent</data>
+    </edge>
+    <edge source="calc_rule_9" target="calc_feature_calc distribution_calc distribution=CLUSTERED">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="calc_rule_10" target="calc_feature_calc distribution_calc distribution=CLUSTERED">
+      <data key="d6">consequent</data>
+    </edge>
+    <edge source="calc_feature_image view_image view=MLO" target="calc_rule_10">
+      <data key="d6">antecedent</data>
+    </edge>
+  </graph>
+</graphml>

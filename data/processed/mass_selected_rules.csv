@@ -1,0 +1,11 @@
+Antecedents,Consequents,Support,Confidence,Lift,Level
+mass margins: mass margins=SPICULATED AND mass shape: mass shape=IRREGULAR AND subtlety: subtlety=5,assessment: assessment=5,0.062,0.872,3.845,Strong
+left or right breast: left or right breast=LEFT AND mass margins: mass margins=SPICULATED AND subtlety: subtlety=5,assessment: assessment=5,0.06,0.859,3.785,Strong
+assessment: assessment=5 AND left or right breast: left or right breast=LEFT AND mass shape: mass shape=IRREGULAR,mass margins: mass margins=SPICULATED,0.052,0.793,3.72,Interesting
+assessment: assessment=5 AND image view: image view=MLO AND mass shape: mass shape=IRREGULAR,mass margins: mass margins=SPICULATED,0.053,0.787,3.689,Interesting
+image view: image view=MLO AND mass margins: mass margins=SPICULATED AND subtlety: subtlety=5,assessment: assessment=5,0.052,0.831,3.665,Strong
+assessment: assessment=5 AND mass shape: mass shape=IRREGULAR,mass margins: mass margins=SPICULATED,0.093,0.777,3.645,Interesting
+assessment: assessment=5 AND breast: density_breast_density=1,subtlety: subtlety=5,0.051,0.848,2.059,Strong
+assessment: assessment=5 AND breast: density_breast_density=2 AND left or right breast: left or right breast=LEFT,subtlety: subtlety=5,0.05,0.835,2.028,Strong
+assessment: assessment=5 AND breast: density_breast_density=2,subtlety: subtlety=5,0.09,0.797,1.935,Interesting
+left or right breast: left or right breast=RIGHT AND mass margins: mass margins=ILL_DEFINED,assessment: assessment=4,0.072,0.709,1.753,Interesting
